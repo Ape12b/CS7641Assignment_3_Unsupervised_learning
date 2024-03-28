@@ -1,0 +1,7 @@
+scanpy
+scipy
+pandas
+matplotlib
+h5py
+anndata
+ipykernel
